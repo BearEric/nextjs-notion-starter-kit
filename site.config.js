@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Just a Gallary',
-  domain: 'https://www.notion.so/beareric/BearGallary-fbf0f68c80e14a649df85f563eedcdb0',
+  name: 'Just a Gallery',
+  domain: 'https://www.notion.so/beareric/BearGallery-fbf0f68c80e14a649df85f563eedcdb0',
   author: 'Eric liang',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageTitle: 'Eric liang',
+  socialImageSubtitle: '',
 
   // social usernames (optional)
   twitter: '',
