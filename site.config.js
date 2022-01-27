@@ -4,12 +4,12 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: 'fbf0f68c80e14a649df85f563eedcdb0',
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Just a Gallary',
+  domain: 'https://www.notion.so/beareric/BearGallary-fbf0f68c80e14a649df85f563eedcdb0',
+  author: 'Eric liang',
 
   // open graph metadata (optional)
   description: 'Example site description',
