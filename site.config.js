@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '7db2759a8d0940afadaaf6ebab1c5a24',
+  rootNotionPageId: '8cc099c3747e491fbd0eb2ad292979b6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Just a Gallery',
-  domain: 'https://www.notion.so/beareric/Gallery-7db2759a8d0940afadaaf6ebab1c5a24',
+  domain: 'https://www.notion.so/beareric/TransitiveBullsh-it-8cc099c3747e491fbd0eb2ad292979b6',
   author: 'Eric liang',
 
   // open graph metadata (optional)
